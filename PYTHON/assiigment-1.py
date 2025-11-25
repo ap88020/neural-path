@@ -26,9 +26,9 @@
 # fahrenhietTemp = (celsiusTemp*(9/5))+32
 # print(fahrenhietTemp)
 
-radius = int(input("enter the num1 : "))
-pi = 3.14
+# radius = int(input("enter the num1 : "))
+# pi = 3.14
 
-area = pi * radius**2
+# area = pi * radius**2
 
-print(area)
+# print(area)
