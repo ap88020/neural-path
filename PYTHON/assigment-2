@@ -1,0 +1,19 @@
+info = [
+    ("Alice","Math"),
+    ("Bob","Science"),
+    ("Alice","Science"),
+    ("Charlie","Math"),
+    ("Bob","Math"),
+    ("Alice","English"),
+    ("charlie","English"),
+]
+
+unique_course = set()
+
+for name,course in info:
+    # unique_course.add(n[1])
+    # unique_course.add(course)
+    if(course == "English"):
+        print(name)
+
+# print(unique_course)
