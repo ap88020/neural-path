@@ -1,0 +1,14 @@
+# squares = []
+
+# for i in range(6):
+#     squares.append(i*i)
+
+# print(squares)
+
+# sq = [i*i for i in range(6) if i%2 != 0]
+# print(sq)
+
+words = ["hellow","world","python"]
+# print(words[0].upper())
+words = [val.upper() for val in words]
+print(words)

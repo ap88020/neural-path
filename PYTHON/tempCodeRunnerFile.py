@@ -1,2 +1,2 @@
-0
-# print(
+
+    print(f"ans = {ans}")
